@@ -1,0 +1,44 @@
+/* #logo {
+    background-color: red;
+    border: 2px solid;
+    width: 33%;
+} */
+
+
+#nav-bar {
+    border: 2px solid red;
+    display: flex;
+    justify-content: flex-end;
+    /* margin: 0 8px; */
+    margin-top: -47px;
+    margin-right: 8px;
+    margin-bottom: -47px;
+    margin-left: 8px;
+    padding: 5px;
+    
+} 
+
+
+ ul li {
+    border: 2px solid;
+    display: inline;
+    border-bottom: 0px;
+    /* float: left; */
+}
+
+#nav {
+    border: 2px solid red;
+	position: sticky;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 60px;
+	top: 25px;
+    width: 30%
+}
+
+#fonts-clinica {
+    border: solid red;
+    text-align: center;
+    size: 26px;
+}
